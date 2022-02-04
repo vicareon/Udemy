@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f319c8d-823a-4d73-b063-a803f3608eb0" name="Changes" comment="Teste de commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/car_dealership/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/car_dealership/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/car_dealership/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/car_dealership/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/car_dealership/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/car_dealership/Dealership.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/car_dealership/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/car_dealership/Vehicle.java" afterDir="false" />
-    </list>
+    <list default="true" id="6f319c8d-823a-4d73-b063-a803f3608eb0" name="Changes" comment="Teste de commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +125,7 @@
       <updated>1643940598150</updated>
       <workItem from="1643940599307" duration="3552000" />
       <workItem from="1643948427030" duration="24000" />
-      <workItem from="1643948465493" duration="2153000" />
+      <workItem from="1643948465493" duration="2753000" />
     </task>
     <task id="LOCAL-00001" summary="Teste de commit">
       <created>1643940936142</created>
